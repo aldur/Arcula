@@ -1,0 +1,6 @@
+bitcash
+ipdb
+ipython
+mnemonic
+nose
+requests
