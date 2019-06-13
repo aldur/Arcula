@@ -4,11 +4,9 @@ This repository contains a proof of concept implementation of Arcula, our design
 ## Install
 Arcula requires Python 3.7 or higher.
 
-Until Arcula lands on the Python Package Index you can install it directly from Github as follows:
+You can install Arcula from the Python Package Index as follows:
 ```bash
-$ git clone https://github.com/aldur/Arcula.git
-$ cd Arcula
-$ pip install --user -e . ".[dev]"
+$ pip install --user arcula  # use "arcula[dev]" to install the optional development dependencies
 $ python3 -c 'import arcula; print(arcula.__version__)'  # Test the installation
 ```
 ## Usage
