@@ -93,7 +93,7 @@ The node highlighted in green first received BCH from the testnet faucet, and th
 
 ## Documentation
 Most of the Arcula functions are heavily documented.
-Our [academical paper](insert_link_of_academical_paper_here) describes our design insights, the formal definitions of Arcula and of the Deterministic Hierarchical Key Assignment key at its core, a detailed comparison with BIP32, and the formal security proofs.
+Our [academical paper](https://arxiv.org/abs/1906.05919) describes our design insights, the formal definitions of Arcula and of the Deterministic Hierarchical Key Assignment key at its core, a detailed comparison with BIP32, and the formal security proofs.
 
 ## Authors
 - Adriano Di Luzio, Sapienza University of Rome and Stevens Institute of Technology.
